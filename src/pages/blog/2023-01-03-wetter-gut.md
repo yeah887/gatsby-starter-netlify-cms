@@ -8,4 +8,4 @@ featuredimage: /img/pxl_20230102_120009418.jpg
 tags:
   - Gal
 ---
-1.
+- { label: 'Blog post content', name: 'body', widget: 'markdown' }
