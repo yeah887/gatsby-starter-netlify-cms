@@ -7,4 +7,4 @@ featuredpost: true
 featuredimage: /img/pxl_20230102_120009418.jpg
 tags: []
 ---
-1.
+*
