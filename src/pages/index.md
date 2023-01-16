@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee special - title
+title: Great coffee special - title 2
 image: /img/home-jumbotron.jpg
 heading: Great coffee special
 subheading: Support sustainable farming while enjoying a cup
